@@ -13,10 +13,15 @@ div{
     
 }
 .content{
-    background-color: lime;
-    height: 400px;
+    background-color: blue;
+    height: 100px;
     width: 920px;
 
+}
+.green{
+    background-color: lime;
+    height:400px;
+    width:920px;
 }
 .red{
     background-color: red;
@@ -42,4 +47,109 @@ div{
     background-color: blue;
     width: 920px;
     height: 90px;
+}
+.yellowbox{
+    background-color: yellow;
+    height: 50px;
+    width:300px;
+    float:left;
+    margin-top: 23px;
+    margin-left: 20px;
+}
+.yellowbox2{
+    background-color: yellow;
+    height: 50px;
+    width: 540px;
+    float: right;
+    margin-top: 23px;
+    margin-left: 20px;
+    margin-right:20px;
+}
+.yellowboxr{
+    background-color: yellow;
+    height: 100px;
+    width: 880px;
+    float:left;
+    margin-top:20px;
+    margin-left:20px;
+}
+.yellowboxr2{
+    background-color: yellow;
+    height: 180px;
+    width: 280px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.yellowboxr3{
+    background-color: yellow;
+    height: 180px;
+    width: 280px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.yellowboxr4{
+    background-color: yellow;
+    height: 180px;
+    width: 280px;
+    float: right;
+    margin-top: 15px;
+    margin-right: 20px;
+}
+.yellowboxb{
+    background-color: yellow;
+    height: 80px;
+    width: 876px;
+    float:left;
+    margin-top:20px;
+    margin-left:25px;
+}
+.yellowboxb1{
+    background-color:yellow;
+    height: 130px;
+    width: 200px;
+    float:left;
+    margin-top: 30px;
+    margin-left: 25px;
+}
+.yellowboxg{
+    background-color: yellow;
+    height: 120px;
+    width: 880px;
+    float:left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.longyellowboxes{
+    background-color: yellow;
+    height: 340px;
+    width:280px;
+    float:left;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.yellowboxlong{
+    background-color:yellow;
+    height: 120px;
+    width: 880px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.yellowboxwide{
+    background-color: yellow;
+    height:320px;
+    width:500px;
+    float:left;
+    margin-top:20px;
+    margin-left: 20px;
+}
+.yellowboxsmall{
+    background-color:yellow;
+    height: 200px;
+    width: 300px;
+    float:right;
+    margin-top: 20px;
+    margin-right:20px;
 }
